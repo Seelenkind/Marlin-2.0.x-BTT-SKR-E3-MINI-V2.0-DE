@@ -14,10 +14,16 @@ https://github.com/Seelenkind/Marlin-2.0.x-BTT-SKR-E3-MINI-V2.0-DE/blob/main/fir
 
 Inhalt:
 Marlin 2.0.7.2 mit deutscher Menüführung
+
 PID Temperatur Tuning Aktiviert
+
 Druckwiederaufnahme nach Stromausfall aktiviert (Im Druckermenü aktivieren / deaktivieren möglich)
+
 Druckerstatistiken aktiviert
+
 Spiele gegen Langeweile aktiviert 
+
 Manuelles Mesh Bed Leveling aktiviert
+
 
 
