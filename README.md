@@ -10,6 +10,7 @@ Falls ihr nichts mit dem Compilieren am Hut habt , einfach die firmware.bin date
 
 ACHTUNG!! Beim download der firmware.bin datei keinen Rechtsklick speichern unter benutzen sonder erst auf den dateinamen klicken und den erscheinenden Download button benutzen. 
 Oder direkt diesen Link benutzen 
+
 https://github.com/Seelenkind/Marlin-2.0.x-BTT-SKR-E3-MINI-V2.0-DE/blob/main/firmware.bin
 
 Inhalt:
