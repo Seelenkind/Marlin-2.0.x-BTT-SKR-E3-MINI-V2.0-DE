@@ -14,7 +14,7 @@ Ihr könnt natürlich BL Touch , Filament Sensor usw nach belieben Hinzufügen f
 Falls ihr nichts mit dem Compilieren am Hut habt , einfach die firmware.bin datei runterladen , auf SD Karte kopieren, in den SD Karten Slot am Board reinschieben (nicht am TFT Display) und Drucker neustarten. Nach einer kurzen Weile begrüßt euch euer Drucker mit der aktuellsten Marlin Version in deutscher Sprache. 
 
 ACHTUNG!! Beim download der firmware.bin datei keinen Rechtsklick speichern unter benutzen sonder erst auf den dateinamen klicken und den erscheinenden Download button benutzen. 
-Oder direkt diesen Link benutzen. Nach dem Download in firmware.bin umwandeln und über SD Karte firmware updaten. 
+Oder direkt diesen Link benutzen. Nach dem Download in firmware.bin umbenennen und über SD Karte firmware updaten. 
 
 https://github.com/Seelenkind/Marlin-2.0.x-BTT-SKR-E3-MINI-V2.0-DE/blob/main/firmware_de.bin
 
