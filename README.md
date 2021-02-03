@@ -3,6 +3,8 @@ Firmware for English-language menu can be found again as firmware-en.bin. After 
 https://github.com/Seelenkind/Marlin-2.0.x-BTT-SKR-E3-MINI-V2.0-DE/blob/main/firmware_en.bin
 Please change the language setting in config.h from de to en for an English-language menu
 
+*************************************************************************************************************************************************
+*************************************************************************************************************************************************
 Marlin 2.0.7.2 für BTT SKR E3 MINI V2.0 in deutscher Sprache 
 
 Nach dem ihr Marlin 2.0.x von der Marlin Seite (https://marlinfw.org/meta/download/) runtergeladen und entpackt habt ersetzt ihr bitte die Dateien und compiliert den Code. 
